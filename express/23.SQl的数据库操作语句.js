@@ -44,5 +44,3 @@
 // delete from users where id=4
 
 // 重点（where） 操作数据库这的字段命令重点查看  删除操作不加就是删库跑路
-
-// 测试111
