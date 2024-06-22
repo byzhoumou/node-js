@@ -4,7 +4,7 @@
 
 // 2.安装 nodemon
 // 在终端中，运行如下命令，即可将 nodemon 安装为全局可用的工具:
-// 1 npm install-g nodemon
+// 1 npm install -g nodemon
 
 // 1.4 nodemon
 // 3.使用 nodemon
