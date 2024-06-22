@@ -4,7 +4,7 @@ const express = require("express");
 const router = express.Router();
 
 //导入用户路由处理函数对应的模块
-const user_handler = require("../rouer_handler/user");
+const user_handler = require("../router_handler/user");
 
 // 导入验证数据的中间件    npm install @escook/express-joi
 const expressJoi = require("@escook/express-joi");
